@@ -13,4 +13,4 @@ graph = create_schema_graph(
 )
 
 graph.write_png('models_erd.png')
-print("✅ ERD generated from models: models_erd.png")
+print("ERD generated as: models_erd.png")

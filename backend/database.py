@@ -1,5 +1,3 @@
-#! /usr/bin/env python3
-
 from sqlalchemy.orm import declarative_base, sessionmaker, relationship
 from pathlib import Path
 from dotenv import load_dotenv
